@@ -54,3 +54,5 @@
 
 git pull origin main
 
+
+## Git 아이디 이메일 
